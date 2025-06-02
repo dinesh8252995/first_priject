@@ -1,4 +1,4 @@
-# first_priject
+# first_project
 this is my first repository 
 <br>
 and this is my first project
